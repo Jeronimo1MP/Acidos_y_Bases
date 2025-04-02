@@ -1,0 +1,26 @@
+{
+    "acidos": [
+        { "nombre": "Aspirina", "imagen": "img/Aspirinas.jpg", "clase": "producto1", "seccion": "sec1", "descripcion": "Ácido acetilsalicílico." },
+        { "nombre": "Limón", "imagen": "img/Limon.webp", "clase": "producto1", "seccion": "sec1", "descripcion": "Contiene ácido cítrico." },
+        { "nombre": "Coca-Cola", "imagen": "img/cocacola.webp", "clase": "producto1", "seccion": "sec1", "descripcion": "Contiene ácido fosfórico y carbónico." },
+        { "nombre": "Vinagre", "imagen": "img/Vinagre.webp", "clase": "producto1", "seccion": "sec1", "descripcion": "Contiene ácido acético." },
+        { "nombre": "Naranja", "imagen": "img/Naranja.webp", "clase": "producto1", "seccion": "sec1", "descripcion": "Contiene ácido cítrico." },
+        { "nombre": "Manzana", "imagen": "img/Manzana.jpg", "clase": "producto1", "seccion": "sec1", "descripcion": "Contiene ácido málico." },
+        { "nombre": "Uva", "imagen": "img/Uva.jpg", "clase": "producto1", "seccion": "sec1", "descripcion": "Contiene ácido tartárico." },
+        { "nombre": "Tomate", "imagen": "img/Tomate.webp", "clase": "producto1", "seccion": "sec1", "descripcion": "Contiene ácido ascórbico." },
+        { "nombre": "Yogur", "imagen": "img/Yogurt.jpg", "clase": "producto1", "seccion": "sec1", "descripcion": "Contiene ácido láctico." },
+        { "nombre": "Refresco", "imagen": "img/cocacola.webp", "clase": "producto1", "seccion": "sec1", "descripcion": "Contiene ácido carbónico." }
+    ],
+    "bases": [
+        { "nombre": "Bicarbonato", "imagen": "img/Bicarbonato.png", "clase": "producto2", "seccion": "sec2", "descripcion": "Sustancia alcalina." },
+        { "nombre": "Jabón", "imagen": "img/jabon.webp", "clase": "producto2", "seccion": "sec2", "descripcion": "Contiene hidróxido de sodio o potasio." },
+        { "nombre": "Lejía", "imagen": "img/Cloro.jpg", "clase": "producto2", "seccion": "sec2", "descripcion": "Contiene hipoclorito de sodio." },
+        { "nombre": "Pasta de dientes", "imagen": "img/pasta.webp", "clase": "producto2", "seccion": "sec2", "descripcion": "Tiene un pH alcalino." },
+        { "nombre": "Amoniaco", "imagen": "img/Amoniaco.jpg", "clase": "producto2", "seccion": "sec2", "descripcion": "Contiene hidróxido de amonio." },
+        { "nombre": "Leche de magnesia", "imagen": "img/nose.webp", "clase": "producto2", "seccion": "sec2", "descripcion": "Contiene hidróxido de magnesio." },
+        { "nombre": "Agua de cal", "imagen": "img/xd.avif", "clase": "producto2", "seccion": "sec2", "descripcion": "Contiene hidróxido de calcio." },
+        { "nombre": "Detergente", "imagen": "img/Detergente.webp", "clase": "producto2", "seccion": "sec2", "descripcion": "Sustancia alcalina usada para limpieza." },
+        { "nombre": "Sosa cáustica", "imagen": "img/SosaCaustica.jpeg", "clase": "producto2", "seccion": "sec2", "descripcion": "Contiene hidróxido de sodio." },
+        { "nombre": "Cloro", "imagen": "img/Cloro.jpg", "clase": "producto2", "seccion": "sec2", "descripcion": "Contiene hipoclorito de sodio." }
+    ]
+}
